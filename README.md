@@ -1,9 +1,9 @@
 #Todo App in Golang
 
 
-* Inclusions
+*Inclusions*
 
-- A sample Todo App using Golang
-- RESTful API's in Golang
-- Logging in Golang
-- Gorilla Webtool Kit for Routing
+1.  A sample Todo App using Golang
+2.  RESTful API's in Golang
+3.  Logging in Golang
+4.  Gorilla Webtool Kit for Routing
